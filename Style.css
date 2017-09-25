@@ -37,21 +37,21 @@ header {
 }
 
 p  {
-  font-family: sans serif;
+  font-family: sans-serif;
   color: black;
   font-size: 14px;
   text-align: justify;
 }
 
 h1  {
-  font-family: sans serif;
+  font-family: sans-serif;
   color: black;
   padding-top: 10px;
 }
 
 h2 {
   font-size: 16px;
-  font-family: sans serif;
+  font-family: sans-serif;
   
 }
 
@@ -87,57 +87,16 @@ a:hover{
 }
 
 
-.vloot1 {
-  float: left;
-  padding-right: 15px;
-  padding-top: 5px;
-}
 
-.vloot2{
+.right{
   float: right;
   padding-left: 15px;
   padding-top: 5px;
 }
 
-.vloot3{
-  float: left;
-  padding-right: 15px; 
-  padding-top: 5px; 
-}
-
-.vloot4{
+.left{
   float: left;
   padding-right: 15px;
   padding-top: 5px;
 }
 
-.vloot5{
-  float: right;
-  padding-left: 15px;
-  padding-top: 5px;
-
-}
-
-.vloot6{
-  float: left;
-  padding-right: 15px;
-  padding-top: 5px;
-}
-
-.vloot7{
-  float: right;
-  padding-left: 15px;
-  padding-top: 5px;
-}
-
-.vloot10{
-  float: left;
-  padding-right: 15px;
-  padding-top: 5px;
-}
-
-.vloot11{
-  float: left;
-  padding-right: 15px;
-  padding-top: 5px;
-}
